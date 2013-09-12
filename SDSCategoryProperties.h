@@ -1,5 +1,5 @@
 //
-//  FLCategoryProperties.h
+//  SDSCategoryProperties.h
 //
 // Macro shenanigans to define methods that simulate properities using
 // associative references
